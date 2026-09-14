@@ -1,0 +1,7 @@
+langchain-ollama
+pyodbc
+pandas
+streamlit
+langsmith
+python-dotenv
+requests
